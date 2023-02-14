@@ -1,0 +1,92 @@
+<mjml>
+    <mj-body background-color="#8ecae6">
+
+    <!--Área Banner -->
+    <mj-section padding="50px 0px 0px 0px">
+    </mj-section>
+    <mj-section padding="0px 0px 0px 0px">
+        <mj-column width="600px">
+            <mj-image width="600px" padding="0px"
+                src="img\banner.jpg" />
+        </mj-column>
+    </mj-section>
+
+    <!--Área Parágrafo -->
+
+    <mj-section padding="0px 0px 35px 0px" background-color="white">
+        <mj-column width="600px">
+            <mj-text  padding="20px 0 0 0" align="center" font-family="arial" font-size="15px">
+                <h1>hello world!</h1>
+            </mj-text> 
+            <mj-text font-family="arial" align="center" padding="0 20px 0 20px" font-size="14px" line-height="20px">
+                <p>Lorem Ipsum is simply dummy text of the printing and 
+                typesetting industry. Lorem Ipsum has been the industry's 
+                standard dummy text ever since the 1500s, when an unknown 
+                printer took a galley of type and scrambled it to make a type 
+                specimen book. It has survived not only five centuries, but also 
+                the leap into electronic typesetting, remaining essentially 
+                unchanged.</p>
+            </mj-text> 
+            <mj-button  href="#" font-family="arial" font-size="14px" color="black" background-color="#8ecae6">
+                Lorem Ipsum!
+            </mj-button>
+        </mj-column>
+    </mj-section>
+
+    <!--Área Cards -->
+
+<mj-section background-color="white" padding="0px 0px 25px 0px">
+        <mj-column>
+            <mj-image width="200px" padding="0 20px"
+                src="img\trabalhar.jpg" />
+            <mj-text align="center" font-size="14px" font-family="arial">
+                <h4>1. Lorem Ipsum</h4>
+            </mj-text>
+        </mj-column>
+         <mj-column>
+            <mj-image width="200px" padding="0 20px"
+                src="img\pesquisar.jpg" />
+            <mj-text align="center" font-size="14px" font-family="arial">
+                <h4>1. Lorem Ipsum</h4>
+            </mj-text>
+        </mj-column>
+         <mj-column>
+            <mj-image width="200px" padding="0 20px"
+                src="img\apresentar.jpg" />
+            <mj-text align="center" font-size="14px" font-family="arial">
+                <h4>1. Lorem Ipsum</h4>
+            </mj-text>
+        </mj-column>
+    </mj-section>
+
+    <!--Área Redes -->
+
+    <mj-section background-color="white" padding="0 0 5px 0">
+        <mj-column width="50px">
+            <mj-image width="26px" padding="0px"
+                src="img\instagram.png" />
+        </mj-column>
+         <mj-column width="50px">
+            <mj-image width="30px" padding="0px"
+            src="img\youtube.png" />
+        </mj-column>
+         <mj-column width="50px">
+            <mj-image width="27px" padding="0px"
+            src="img\twitter.png" />
+        </mj-column>
+    </mj-section>
+
+   <!--Área Copyright -->
+
+    <mj-section background-color="white" padding="0px 0px 20px 0px">
+        <mj-column>
+            <mj-text align="center" font-size="14px" font-family="arial">
+                Alexandre Maia, Lisboa © 2023
+                Por Alexandre Maia
+            </mj-text>
+        </mj-column>    
+    </mj-section>
+    <mj-section padding="0px 0px 50px 0px">
+    </mj-section>
+  </mj-body>
+</mjml>
